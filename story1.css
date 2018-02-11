@@ -1,0 +1,32 @@
+header-bg,div{
+  width: 100%; 
+  height: 100%;
+  background-color: #EEBE47;
+  margin-bottom: 9px;
+  background-image: url(kids5.jpg);
+
+}
+h1 {
+	font-size: 70px;
+	position: relative;
+	top: -160px;
+	text-align: center;
+}
+body{
+	background-image: url(kids10.jpg);
+
+}
+.menu{
+	float: right;
+
+}
+.menu li{
+	list-style-type: none;
+	float: left;
+	padding: 70px;
+}
+.menu a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial, calibri,'sans serif'
+}

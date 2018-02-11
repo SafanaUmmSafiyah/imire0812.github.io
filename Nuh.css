@@ -1,0 +1,16 @@
+body{
+	background-image: url(kids16.jpg);
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+	margin: 50px;
+	font-size: 60px;
+
+}
+p{
+	margin: 50px;
+	font-style: italic;
+	font-size: 25px;
+	
+}
